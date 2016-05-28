@@ -1,3 +1,9 @@
+-- MittraSW version 0.1, Copyright (C) year rhvall
+-- MittraSW comes with ABSOLUTELY NO WARRANTY; for details type `show w'.
+-- This is free software under GNU General Public License as published by
+-- the Free Software Foundation; either version 3 of the License, or
+-- (at your option) any later version.
+
 {-# LANGUAGE OverloadedStrings #-}
 
 module Network.Authenticate.ETradeOAuth
